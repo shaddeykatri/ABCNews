@@ -4,6 +4,7 @@
   "description": "This is a repository which uses newsapi.org to fetch the latest news and articles from the web and display it.",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
